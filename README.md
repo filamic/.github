@@ -1,4 +1,4 @@
-![Filamic Banner]('https://github.com/filamic/ppdb/raw/main/public/img/banner.png')
+![Filamic Banner](https://github.com/filamic/ppdb/raw/main/public/img/banner.png)
 
 ## Filamic
 
