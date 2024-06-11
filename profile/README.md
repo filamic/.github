@@ -11,4 +11,7 @@ Filamic merupakan kumpulan aplikasi open source sektor pendidikan untuk membantu
 - Point Pelanggaran Peserta Didik (Soon)
 - Inventaris dan Peminjaman (Soon)
 - Jadwal Mengajar Guru(Teacher's Timetable) (Soon)
-- ...dan masih banyak lagi, tunggu saja atau request sesuai kebutuhan anda [disini](https://github.com/filamic/ppdb?tab=readme-ov-file#hire-me).
+- ...dan masih banyak lagi, stay tune 👐
+
+## Hire Me
+- Open to any job opportunity, let's work together, send me an email (christmex@yahoo.com)✌️
