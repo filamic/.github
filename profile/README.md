@@ -11,6 +11,8 @@ Filamic merupakan kumpulan aplikasi open source sektor pendidikan untuk membantu
 - Point Pelanggaran Peserta Didik (Soon)
 - Inventaris dan Peminjaman (Soon)
 - Jadwal Mengajar Guru(Teacher's Timetable) (Soon)
+- Buku Tamu (Soon)
+- Absensi Multi Fungsi (Soon)
 - ...dan masih banyak lagi, stay tune 👐
 
 ## Hire Me
