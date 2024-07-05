@@ -19,7 +19,7 @@ Filamic merupakan kumpulan aplikasi open source sektor pendidikan untuk membantu
 
 ## Dukungan
 
-Jika kalian suka dengan apa yang kami kerjakan, dan ingin terus mendukung produk kami tetap berjalan, kalian bisa mendukung kami melalui:
+Jika kalian suka dengan apa yang kami kerjakan, dan ingin terus mendukung produk kami tetap berjalan, kalian bisa mendukung kami dengan cara:
 1. Memberikan bintang pada repo ini ⭐⭐⭐⭐⭐
 2. Ikuti kami di github/instagram/twitter(x)
 3. Donasi(Silahkan hubungi kami via email (christmex@yahoo.com))
