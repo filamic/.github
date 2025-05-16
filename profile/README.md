@@ -15,6 +15,7 @@ Filamic merupakan kumpulan aplikasi open source sektor pendidikan untuk membantu
 - Absensi Multi Fungsi (Soon)
 - Alumni (Soon)
 - Management Lowongan Pekerjaan (Soon)
+- Generate Kartu Pelajar
 - ...dan masih banyak lagi, stay tune 👐
 
 ## Dukungan
